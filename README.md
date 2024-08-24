@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=40&duration=2000&pause=500&color=40b27f&background=3A902300&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hello!+My+name+is+Slava!;I'm+frontend+developer" alt="Typing SVG" />
+<br>
 <h3 align="left">Base stack:</h3>
 <markdown-accessiblity-table><table>
 <thead>
@@ -22,7 +23,7 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
-
+<br>
 <h3 align="left">Styles:</h3>
 <markdown-accessiblity-table><table>
 <thead>
@@ -44,7 +45,7 @@
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" style="max-width: 100%;"></td>
 </tbody>
 </table></markdown-accessiblity-table>
-
+<br>
 <h3 align="left">Bundlers:</h3>
 <table>
 <thead>
@@ -66,7 +67,7 @@
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="55" height="55" style="max-width: 100%;"></td>
 </tbody>
 </table>
-
+<br>
 <h3 align="left">Environments & Other:</h3>
 <markdown-accessiblity-table><table>
 <thead>
@@ -95,7 +96,6 @@
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="FileZilla" alt="FileZilla" width="45" height="45" style="max-width: 100%;"></td>
 </tbody>
 </table></markdown-accessiblity-table>
-
 - Experience: **4+ years**
 - Location: **Russia**
 - Email: **iblancos.instagram@gmail.com**
