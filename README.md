@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=40&duration=2000&pause=500&color=40b27f&background=3A902300&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hello!+👋+My+name+is+Slava!;I'm+frontend+developer" alt="Typing SVG" />
+
 <h3 align="left">Base stack:</h3>
 <markdown-accessiblity-table><table>
 <thead>
@@ -95,10 +96,13 @@
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title="FileZilla" alt="FileZilla" width="45" height="45" style="max-width: 100%;"></td>
 </tbody>
 </table></markdown-accessiblity-table>
+<br><br>
 
+> [!TIP]
+> I also have experience with: GSAP.js / Scrolltrigger.js / Locomotive.js / Matter.js / Canvas / Websockets / Rest API / YandexMap API / BEM
 <br>
 
 - Experience: **4+ years**
 - Location: **Russia**
 - Email: **iblancos.instagram@gmail.com**
-- Telegram: <a href="https://t.me/svm_2001" target="_blank">@svm2001</a>
+- Telegram: **<a href="https://t.me/svm_2001" target="_blank">@svm2001</a>**
