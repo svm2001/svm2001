@@ -104,7 +104,7 @@
 > I also have experience with: Matter.js / Canvas / Websockets / Rest API / YandexMap API / BEM
 <br>
 
-- Experience: **4+ years**
-- Location: **Russia**
-- Email: **iblancos.instagram@gmail.com**
-- Telegram: **<a href="https://t.me/svm_2001" target="_blank">@svm2001</a>**
+- 🧗‍♂️Experience **4+ years**
+- 📌Location **Russia**
+- 📫Email: **iblancos.instagram@gmail.com**
+- ✅Telegram: **<a href="https://t.me/svm_2001" target="_blank">@svm2001</a>**
