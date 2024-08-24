@@ -74,6 +74,7 @@
 <tr>
 <th>Git</th>
 <th>Axios</th>
+<th>GSAP</th>
 <th>Firebase</th>
 <th>WebStorm</th>
 <th>VSCode</th>
@@ -88,6 +89,7 @@
   
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" style="max-width: 100%;"></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="45" height="45" style="max-width: 100%;"></td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" title="GSAP" alt="GSAP" width="45" height="55" style="max-width: 100%;"></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="45" height="45" style="max-width: 100%;"></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="45" height="45" style="max-width: 100%;"></td>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="45" height="45" style="max-width: 100%;"></td>
@@ -99,7 +101,7 @@
 <br><br>
 
 > [!TIP]
-> I also have experience with: GSAP.js / Scrolltrigger.js / Locomotive.js / Matter.js / Canvas / Websockets / Rest API / YandexMap API / BEM
+> I also have experience with: Matter.js / Canvas / Websockets / Rest API / YandexMap API / BEM
 <br>
 
 - Experience: **4+ years**
