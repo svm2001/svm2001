@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=18&duration=2000&pause=1000&color=0BFF00&background=7474745D&center=true&vCenter=true&multiline=true&repeat=false&width=80&height=45&lines=%2Fstart" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=18&duration=2000&pause=1000&color=0BFF00&background=7474745D&center=true&vCenter=true&multiline=true&repeat=false&width=80&height=45&lines=%2Fstart" alt="Typing SVG" /></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=40&duration=2000&pause=500&color=40b27f&background=3A902300&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hello!+My+name+is+Slava!;I'm+frontend+developer+from+Russia" alt="Typing SVG" />
 <br>
 
