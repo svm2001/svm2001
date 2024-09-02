@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=40&duration=2000&pause=500&color=40b27f&background=3A902300&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hello!+👋+My+name+is+Slava!;I'm+frontend+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&size=40&duration=2000&pause=500&color=40b27f&background=3A902300&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hello!+👋+I'm+Vyacheslav!;And+I'm+frontend+developer" alt="Typing SVG" />
 
 <h3 align="left">Base stack:</h3>
 <markdown-accessiblity-table><table>
@@ -18,7 +18,7 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="45" height="45" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a></td>
 <td align="center"><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"></a></td>
-<td align="center"><a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/15c35cfe9d5758cb6f712966b2828f468baabac48faacb96438fe2e90989686e/68747470733a2f2f70696e69612e7675656a732e6f72672f6c6f676f2e737667" alt="pinia" width="40" height="50"></a></td>
+<td align="center"><a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="50"></a></td>
 <td align="center"><a href="https://pugjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"></a></td>
 </tr>
 </tbody>
